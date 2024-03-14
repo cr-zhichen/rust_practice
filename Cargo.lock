@@ -903,7 +903,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "rust_test"
+name = "rust_practice"
 version = "0.1.0"
 dependencies = [
  "actix-web",
